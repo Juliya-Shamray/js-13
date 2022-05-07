@@ -1,3 +1,4 @@
+import "./style.css";
 import { users } from "./data";
 
 const container = document.querySelector(".container");
